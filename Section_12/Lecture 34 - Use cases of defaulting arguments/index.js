@@ -14,4 +14,4 @@ function createAdminuser(user = new User(generateId())) {
 
 let user = new User(generateId());
 createAdminuser(user);
-console.log(user).
+console.log(user);
